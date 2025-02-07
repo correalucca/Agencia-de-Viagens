@@ -1,5 +1,5 @@
 .hero {
-  background: url('assets/city-background.jpg') center/cover;
+  background: url('/public/img/city-background.jpg') center/cover;
   height: 60vh;
   color: white;
   display: flex;
