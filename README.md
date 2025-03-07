@@ -57,7 +57,7 @@ O projeto será avaliado com base nos seguintes critérios:
 
 ### 🔹 Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/agencia-de-viagens.git
+git clone git@github.com:correalucca/Agencia-de-Viagens.git
 ```
 
 ### 🔹 Executar a Interface
